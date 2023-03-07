@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(24, 27, 219);
+}
+.noi-quy {
+  text-align: center;
+  color: red;
+  font-style: 4rem;
+}
+.bang-noi-quy {
+  border: 15px double blue ;
+  background: rgb(238, 239, 241);
+}
+
