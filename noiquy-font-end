@@ -8,11 +8,12 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <div class="bang-noi-quy">
-        <h1 style="color:rgb(14, 67, 165);" >Đại Học Huế</h1>
-        <h1>Trường Đại Học Khoa Học</h1>
-        <h1 class="noi-quy">Nội Quy</h1>
-        <h2 class="noi-quy">Phòng Thực Hành</h2>
+    <div class=" p-3 p-2 bang-noi-quy border border-2 border-3 border-blue">
+        <div p-3 border border-2> 
+            <h1 style="color:rgb(14, 67, 165);" >Đại Học Huế</h1>
+            <h1>Trường Đại Học Khoa Học</h1>
+            <h1 class="noi-quy">Nội Quy</h1>
+            <h1 class="noi-quy">Phòng Thực Hành</h1></div>
     </div>
 </body>
-</html>
+</html> 
